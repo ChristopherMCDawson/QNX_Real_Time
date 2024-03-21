@@ -1,0 +1,3 @@
+Created Real-time C++ Applcation using QNX momentics IDE to preform Message-Passing,Processes and signal to trigger processes and responces.
+Created Muiltithreaded Application showing Parent/Child relationship.
+Wrote a simple Resource Manager. Which then was used to create a simple Metronome.
